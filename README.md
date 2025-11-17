@@ -9,8 +9,7 @@ This project was built by following an advanced finance analytics Power BI tutor
 ---
 
 ## 🔗 Live Dashboard
-👉 **View the live Power BI report:**  
-https://app.powerbi.com/viewr=eyJrIjoiMDI0MTE2ZTMtNjQ0NS00NTM0LTlkZTktYzMxNjg2MTYwNTQ3IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9&pageName=ee3d374493c1009a28b4
+[👉 View the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMDI0MTE2ZTMtNjQ0NS00NTM0LTlkZTktYzMxNjg2MTYwNTQ3IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9&pageName=ee3d374493c1009a28b4)
 
 ---
 
