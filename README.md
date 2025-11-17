@@ -28,7 +28,7 @@ The dashboard includes KPIs such as Income, Expenses, Savings, category-wise spe
 
 ---
 
-## 🔧 Steps Followed (Tutorial Workflow)
+## 🔧 Steps Followed
 
 ### **1. Power BI Basics**
 - Navigation, Visualization pane basics  
